@@ -29,7 +29,7 @@ header p {
   margin: 10px 0;
 }
 
-.card-title {
+h3 {
   font-size: 1.3rem;
   margin-bottom: 10px;
   color: hsl(234deg, 12%, 34%);
@@ -69,7 +69,7 @@ section {
   gap: 25px;
 }
 
-li {
+article {
   list-style: none;
   height: 248px;
   padding: 25px;
