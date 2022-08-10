@@ -5,6 +5,7 @@ $Blue: hsl(212, 86%, 64%);
 
 $Very-Dark-Blue: hsl(234, 12%, 34%);
 $Grayish-Blue: hsl(229, 6%, 66%);
+$Border-Grayish-Blue: hsla(229, 6%, 66%, 0.495);
 $Very-Light-Gray: hsl(0, 0%, 98%);
 
 @mixin border-colors ($color){
